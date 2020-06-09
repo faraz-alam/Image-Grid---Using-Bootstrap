@@ -1,0 +1,68 @@
+body {
+	padding-top: 70px;
+}
+
+.jumbotron {
+	color: #2c3e50;
+	background: #ecf0f1;
+	font-family: 'Balsamiq Sans', cursive;
+}
+
+.navbar-inverse {
+	background-color: #2c3e50;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+	color: white;
+	font-family: 'Balsamiq Sans', cursive;
+}
+
+.navbar-inverse .navbar-brand{
+	color: white;
+	font-family: 'Balsamiq Sans', cursive;
+}
+
+
+.image1 {
+  background-image: url(https://images.unsplash.com/photo-1589025942091-860486da079f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=401&q=80);
+}
+
+.image2 {
+  background-image: url(https://images.unsplash.com/photo-1571043490388-1f5623451671?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80);
+}
+
+.image3 {
+  background-image: url(https://images.unsplash.com/photo-1576878306348-dbd50e79271b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80);
+}
+
+.image4 {
+  background-image: url(https://images.unsplash.com/photo-1565975346632-0d613d5a629b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=313&q=80);
+}
+
+.image5 {
+  background-image: url(https://images.unsplash.com/photo-1581540529586-e28d24840327?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80);
+}
+
+.image6 {
+  background-image: url(https://images.unsplash.com/photo-1567687119626-8e25ebb12957?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80);
+}
+
+.image7 {
+  background-image: url(https://images.unsplash.com/photo-1566818126384-c387722d0a92?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80);
+}
+
+.image8 {
+  background-image: url(https://images.unsplash.com/photo-1511902467434-4677a533a674?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=282&q=80);
+}
+
+.image9 {
+  background-image: url(https://images.unsplash.com/photo-1589208069778-20adb4348ac6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80);
+}
+
+
+.image {
+  width: 100%;
+  height: 250px;
+  background-size: cover;
+  background-position: center;
+}
